@@ -20,13 +20,15 @@ It is designed to work with any ethical input—bioethics, legal norms, or disci
 
 ## 📘 Whitepaper Contents
 
-- Section 1: Why Ethics Needs a Rebuild
-- Section 2: The Failure of Top-Down Ethics
-- Section 3: From Principles to Practice
-- Section 4: Structured Well-Being & Tiered Evaluation
-- Sections 5–14: Ethical Tenets, Heuristics, System Architecture
-- Appendix A: Glossary
+- Part I: Introduction
+- Part II: Core Ethical Parameters
+- Part III: Ethical Reasoning Processes
+- Part IV: Implementation Tools and Methods
+- Glossary
+- Appendix A: Tier Reference Paper
 - Appendix B: Limitations & Future Development
+- Appendix C: OEF Tier Routing Diagram
+- References
 
 ---
 
@@ -43,6 +45,26 @@ Each tier routes decisions differently based on context and risk:
 Color-coded diagram included in `/visuals`.
 
 ---
+
+Decision Evaluation Protocol (Preliminary Draft)
+
+This is the preliminary version of the Decision Evaluation Protocol (DEP) — part of the Kraken AI Governance model and built to operationalize the Objective Ethics Framework (OEF) in real-world decision-making.
+
+The DEP is designed to:
+
+Provide a structured, repeatable method for evaluating high-stakes or complex decisions
+Bridge ethical principles with applied workflows
+Support transparency, accountability, and adaptability in rapidly changing environments
+
+Important notes:
+
+This is an early-stage working draft. Expect changes as it’s refined through testing and feedback.
+Examples, test cases, and integrations are still in development.
+If you want to suggest improvements or see edge cases covered, please open an issue or submit a pull request.
+
+
+---
+
 
 ## 📝 License
 
